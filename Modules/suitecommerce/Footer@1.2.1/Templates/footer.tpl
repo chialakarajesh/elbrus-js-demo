@@ -4,7 +4,7 @@
 	provided, however, if you are an authorized user with a NetSuite account or log-in, you
 	may use this code subject to the terms that govern your access and use.
 }}
-
+<div class="footer-top">Creating new branch for test and do some changes on branch</div>
 <div data-view="Global.BackToTop"></div>
 <div class="footer-content">
 
