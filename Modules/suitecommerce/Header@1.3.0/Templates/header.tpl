@@ -7,7 +7,7 @@
 
 <div class="header-message" data-view="Message.Placeholder"></div>
 
-<div class="header-main-wrapper">
+<div class="header-main-wrapper test">
 	<div class="header-subheader">
 		<div class="header-subheader-container">
 		<ul class="header-subheader-options">
