@@ -13,6 +13,10 @@
   @extend .message-info;
   @extend .message-large;
 }
+.home-banner-top-message-1{
+     @extend .home-banner-top-message;
+    color: aqua;
+}
 
 .home-slider-container {
   margin-top:$sc-base-margin * 4;

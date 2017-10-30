@@ -5,6 +5,9 @@
 	may use this code subject to the terms that govern your access and use.
 }}
 
+<p class="home-banner-top-message-1">
+			<strong>SCADEMO</strong> for <strong>GIT</strong> off checking details
+		</p>
 <div class="home">
 	<div class="home-banner-top">
 		<p class="home-banner-top-message">
