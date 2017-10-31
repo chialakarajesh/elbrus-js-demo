@@ -5,6 +5,7 @@
 	may use this code subject to the terms that govern your access and use.
 }}
 
+<div class="test-cart">test para here</div>
 <div class="cart-detailed">
 	<div class="cart-detailed-view-header">
 		<header class="cart-detailed-header">
